@@ -1,2 +1,2 @@
 # baloney-pi
-A place for messing around
+A place for messing around.
